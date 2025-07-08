@@ -23,14 +23,19 @@ Este projeto de Laboratorio de Ciruitos consiste em um **resistômetro digital**
 - Jumpers e protoboard
 - Resistor a ser testado
 
-## Contrução do Circuito  
+## Bibliotecas Necessárias 
+
+Para o funcionamento correto deste projeto no Arduino, as seguintes bibliotecas devem estar instaladas:
+
+- **Wire.h** : Biblioteca padrão para comunicação I2C (já inclusa na IDE do Arduino).
+- **Adafruit_GFX.h** : Biblioteca gráfica da Adafruit para displays, responsável por desenhar formas, textos e gráficos no display OLED.
+- **Adafruit_SSD1306.h** : Biblioteca específica para controle de displays OLED baseados no driver SSD1306 via I2C.
+
+# Contrução do Circuito  
 <img src="Circuito.png" width="700" align="center">
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Autores
-- Gabriel Volpato 
 
 ## Contato
 Para suporte ou dúvidas, entre em contato pelo email: volpatocursin@outlook.com 
