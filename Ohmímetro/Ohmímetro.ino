@@ -104,7 +104,7 @@ void mostrarResultado(float mediaVout, float resistencia) {
   display.println(TABELA_CORES[faixa2]);
 
   display.setCursor(78, 16);
-  display.println(tabela_Resistores[numDigitos]);
+  display.println(TABELA_CORES[multiplicador]);
 }
 
 void desenharResistor() {
