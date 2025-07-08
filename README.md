@@ -24,7 +24,7 @@ Este projeto de Laboratorio de Ciruitos consiste em um **resistômetro digital**
 - Resistor a ser testado
 
 ## Contrução do Circuito  
-<img src="Circuito.png" width="435" align="center">
+<img src="Circuito.png" width="700" align="center">
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
