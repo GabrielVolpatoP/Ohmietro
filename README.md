@@ -34,6 +34,9 @@ Para o funcionamento correto deste projeto no Arduino, as seguintes bibliotecas 
 # Contrução do Circuito  
 <img src="Circuito.png" width="700" align="center">
 
+# Fluxograma Geral
+<img src="Fluxograma.png" width="800" align="center">
+
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
